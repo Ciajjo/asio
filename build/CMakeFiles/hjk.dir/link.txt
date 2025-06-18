@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O0 -Wall -g2 -ggdb -shared -Wl,-soname,libhjk.so -o ../lib/libhjk.so CMakeFiles/hjk.dir/src/endpoint.cpp.o   -L/home/aaa/github/asio/lib 

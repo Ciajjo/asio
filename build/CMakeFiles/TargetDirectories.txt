@@ -1,0 +1,4 @@
+/home/aaa/github/asio/build/CMakeFiles/hjk.dir
+/home/aaa/github/asio/build/CMakeFiles/app.dir
+/home/aaa/github/asio/build/CMakeFiles/edit_cache.dir
+/home/aaa/github/asio/build/CMakeFiles/rebuild_cache.dir

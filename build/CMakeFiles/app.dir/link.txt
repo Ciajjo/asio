@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -Wall -g2 -ggdb CMakeFiles/app.dir/main.cpp.o -o ../bin/app   -L/home/aaa/github/asio/lib  -Wl,-rpath,/home/aaa/github/asio/lib ../lib/libhjk.so 
